@@ -104,7 +104,7 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 ---
 
 ## 🚀 Proyectos destacados  
-<a href="https://github.com/martino-lucas95/Portafolio-IA">
+<a href="https://github.com/martino-lucas95/Portafolio_IA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martino-lucas95&repo=Portafolio_IA&theme=radical" />
 </a>
 <a href="https://github.com/martino-lucas95/BDII-PencaUCU">
