@@ -87,7 +87,9 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 ## 🏅 Certificaciones destacadas  
 - Microsoft **Power BI Desktop for Business Intelligence**  
 - **Information Security Fundamentals**  
-- UCU **Tech Lead & QA Challenge**  
+- UCU **Backend Lead & QA Challenge**
+- UCU **CyberSec Challenge**
+- **Generative AI at SAP**
 
 ---
 
