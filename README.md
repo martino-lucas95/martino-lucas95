@@ -2,7 +2,7 @@
 
 ## Sobre mí  
 A lo largo de mi carrera he cultivado un perfil **multidisciplinario** que combina contabilidad, administración e informática.  
-Hoy trabajo como **Software Developer & Innovation / Automation Consultant en Invenzis**, liderando automatizaciones e integraciones con SAP (Integration Suite, Kyma, n8n) y desarrollando software a medida en **Python** y **Java**.  
+Hoy trabajo como **Software Developer & Innovation / Automation Consultant en Invenzis**, liderando automatizaciones e integraciones con SAP (Integration Suite, Kyma, n8n) y desarrollando software a medida en **Python**, **Java** y **C#**.  
 
 He utilizado un stack amplio de tecnologías lo que me permite abordar proyectos end-to-end. 
 
