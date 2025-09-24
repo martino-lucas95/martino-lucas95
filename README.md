@@ -67,8 +67,8 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 ---
 
 ## 🌱 Actualmente estoy aprendiendo...  
-- n8n para orquestación de workflows  
-- Kubernetes avanzado y GitOps  
+- n8n para process automation  
+- Kubernetes avanzado y DevOps en gral. 
 - Prácticas de Lean Construction aplicadas a software de gestión de obras  
 
 ---
@@ -76,10 +76,10 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 ## 💼 Experiencia profesional  
 | Periodo | Rol & Organización | Claves |  
 |---------|-------------------|--------|  
-| 2024 – Presente | **Software Developer / SAP BTP – Invenzis** | Automatización, Integración Suite, contenedores |  
+| 2024 – Presente | **Software Developer / SAP BTP – Invenzis** | Automatización, Integration Suite, DevOps |  
 | 2024 – Presente | **Founder & Dev – MK Studios** | ERP veterinario a medida |  
 | 2022 – 2024 | **SAP B1 Technical Consultant – Invenzis** | Vistas analíticas, Integration Framework |  
-| 2020 – 2022 | **Finance & Admin Manager – Neladi SA** | Implementación SAP B1, procesos financieros |  
+| 2020 – 2022 | **Finance & Admin Manager – Neladi SA** | Implementación SAP B1, gestión financiera y contable |  
 | 2022 | **Asesor DNPS – MIDES** | Planificación y presupuestos públicos |  
 
 ---
