@@ -27,7 +27,7 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](#)
 
-### DevOps & Cloud  
+### DevOps & Cloud computing  
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![SAP BTP / Kyma](https://img.shields.io/badge/SAP_BTP_-_Kyma-0FAAFF?logo=sap&logoColor=white)](#)
@@ -36,13 +36,14 @@ Actualmente curso 5.º año de Ingeniería en Informática (UCU) y soy Contador 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)](#)
 
 ### Integración y automatización
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](#)
 [![SAP Integration Suite](https://img.shields.io/badge/SAP_Integration_Suite-0FAAFF?logo=sap&logoColor=white)](#)
 [![n8n](https://img.shields.io/badge/n8n-EA7E00?logo=n8n&logoColor=white)](#)
 
-### Observabilidad
+### Observabilidad y Monitoreo
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 
