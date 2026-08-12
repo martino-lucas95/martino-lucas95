@@ -25,7 +25,7 @@ I have a multidisciplinary profile combining **Accounting/Finance (CPA)** with *
 * 🔭 **Current Role:** Software Engineering Team Lead at **Invenzis**.
 * 🎯 **Focus:** Leading technical teams, **Kubernetes Orchestration**, and Cloud Architecture.
 * 💼 **Specialization:** SAP Ecosystem (BTP, Kyma, Integration Suite), **AI Integration & Solutions**, and Process Automation
-* 🎓 **Background:** Certified Public Accountant (UdelaR) & Computer Engineering Student (UCU).
+* 🎓 **Background:** Certified Public Accountant (UdelaR) & Computer Engineer (UCU).
 
 <br>
 
